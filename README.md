@@ -17,7 +17,7 @@ If you're using SQL Server Express on the same machine then this should already 
 
 To create the database with all the seeded data, make sure to change to the Server directory of this solution.
 
-`cd .\BlazingShop\Server`
+`cd .\WatchShopNhom5\Server`
 
 Then you can run all the migrations of EF Core or update the database, respectively.
 
